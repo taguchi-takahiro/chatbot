@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taguchi-takahiro/chatbot.git/static/css/main.50841beb.chunk.css",
+    "main.js": "/taguchi-takahiro/chatbot.git/static/js/main.f43f120f.chunk.js",
+    "main.js.map": "/taguchi-takahiro/chatbot.git/static/js/main.f43f120f.chunk.js.map",
+    "runtime-main.js": "/taguchi-takahiro/chatbot.git/static/js/runtime-main.88a3299f.js",
+    "runtime-main.js.map": "/taguchi-takahiro/chatbot.git/static/js/runtime-main.88a3299f.js.map",
+    "static/js/2.2f099d4a.chunk.js": "/taguchi-takahiro/chatbot.git/static/js/2.2f099d4a.chunk.js",
+    "static/js/2.2f099d4a.chunk.js.map": "/taguchi-takahiro/chatbot.git/static/js/2.2f099d4a.chunk.js.map",
+    "index.html": "/taguchi-takahiro/chatbot.git/index.html",
+    "precache-manifest.9540077611ba0867dfacde0358c26894.js": "/taguchi-takahiro/chatbot.git/precache-manifest.9540077611ba0867dfacde0358c26894.js",
+    "service-worker.js": "/taguchi-takahiro/chatbot.git/service-worker.js",
+    "static/css/main.50841beb.chunk.css.map": "/taguchi-takahiro/chatbot.git/static/css/main.50841beb.chunk.css.map",
+    "static/js/2.2f099d4a.chunk.js.LICENSE.txt": "/taguchi-takahiro/chatbot.git/static/js/2.2f099d4a.chunk.js.LICENSE.txt",
+    "static/media/no-profile.png": "/taguchi-takahiro/chatbot.git/static/media/no-profile.a990286c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88a3299f.js",
+    "static/js/2.2f099d4a.chunk.js",
+    "static/css/main.50841beb.chunk.css",
+    "static/js/main.f43f120f.chunk.js"
+  ]
+}
